@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CafeRegApp", "CafeRegApp\CafeRegApp.csproj", "{E9DB9EB1-62F2-4552-8F65-AA8C2800EDCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeRegInstaller", "CafeRegInstaller\CafeRegInstaller.csproj", "{5CA694DE-28B3-418C-9DFA-9368DD49FC2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9DB9EB1-62F2-4552-8F65-AA8C2800EDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9DB9EB1-62F2-4552-8F65-AA8C2800EDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9DB9EB1-62F2-4552-8F65-AA8C2800EDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9DB9EB1-62F2-4552-8F65-AA8C2800EDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CA694DE-28B3-418C-9DFA-9368DD49FC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA694DE-28B3-418C-9DFA-9368DD49FC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA694DE-28B3-418C-9DFA-9368DD49FC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA694DE-28B3-418C-9DFA-9368DD49FC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A600A9CE-1A95-4C13-BB6B-4FD36D5BCB69}
+	EndGlobalSection
+EndGlobal
